@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in closure #1 in ContentView.body.getter:ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sneakerViewModel.sneakers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SneakerAPIService.fetchSneakers(completion:):SneakerAPIService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SneakerAPIService.parseJSON(data:):SneakerAPIService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sneakerDict[&quot;category&quot;] ">
+            </PersistentString>
+            <PersistentString
+               value = "sneakerDict[&quot;nickname&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "sneakerDict[&quot;silhouette&quot; ]">
+            </PersistentString>
+            <PersistentString
+               value = " if category[0] == &quot;basquetball&quot;">
+            </PersistentString>
+            <PersistentString
+               value = "category.first">
+            </PersistentString>
+            <PersistentString
+               value = "neakerDict[ &quot;main_picture_url&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "let name = sneakerDict[&quot;name&quot;] as? String">
+            </PersistentString>
+            <PersistentString
+               value = "let id = sneakerDict[&quot;id&quot;] as? Int">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SneakerViewModelTests.testFetchSneakersSuccess():SneakerViewModelTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "XCTAssertEqual(viewModel.sneakers.count, 3)">
+            </PersistentString>
+            <PersistentString
+               value = "viewModel.sneakers.count,">
+            </PersistentString>
+            <PersistentString
+               value = "viewModel.filteredSneaker.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SneakerViewModel.fetchSneakers():SneakerViewModel.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
